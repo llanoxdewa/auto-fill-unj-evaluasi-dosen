@@ -105,7 +105,7 @@ class Data:
         if self.semester == '':
             raise BlankData('semester tidak boleh kosong','semester')
 
-        if self.nilai_evaluasi_dosen < 1:
+        if self.nilai_evaluasi_dosen < 1 or self.nilai_evaluasi_dosen > 4:
             raise EvalDosenValueOutOfRange('nilai tidak valid','nilai_evaluasi_dosen')
 
 
