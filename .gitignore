@@ -1,0 +1,5 @@
+
+# this folder should not push to the repository
+__pycache__/
+.vscode/
+.venv/
