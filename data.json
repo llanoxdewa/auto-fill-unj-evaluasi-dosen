@@ -1,0 +1,7 @@
+{
+  "username": "USERNAME SIAKAD MAHASISWA",
+  "password": "PASSWORD SIAKAD MAHASISWA",
+  "semester": "SEMESTER EVALUASI DOSEN DI SEMESTER BERAPA",
+  "nilai_evaluasi_dosen": "1-4",
+  "jumlah_pertanyaan": "JUMLAH PERTANYAAN YANG ADA DI EVALUASI (24 PERTANYAAN KETIKA PROGRAM INI DIBUAT)"
+}
